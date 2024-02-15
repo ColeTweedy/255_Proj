@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/BP_Projectile.uasset",
-				"C:/Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedal_1.uasset"
 			]
 		}
 	]
