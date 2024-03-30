@@ -19372,3 +19372,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.30-15.49.32:571][890]LogSlate: Window 'Message Log' being destroyed
 [2024.03.30-15.51.47:071][528]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
 [2024.03.30-15.51.47:071][528]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.03.30-15.52.19:211][163]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2024.03.30-15.52.19:218][163]LogSlate: Window 'ThirdPersonMap' being destroyed
+[2024.03.30-15.52.19:221][163]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.30-15.52.19:221][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.30-15.52.19:874][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.30-15.52.19:886][193]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008500 seconds
+[2024.03.30-15.52.19:894][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1
+[2024.03.30-15.52.19:894][193]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ThirdPersonMap_Auto19EA1A7304C97B164608FB99B2D69EE6C.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap'
+[2024.03.30-15.52.19:896][193]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.30-15.52.19:896][193]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1 is in the /Temp path, will not scan.
+[2024.03.30-15.52.19:896][193]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1 is in the /Temp path, will not scan.
+[2024.03.30-15.52.19:898][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC_Auto1
+[2024.03.30-15.52.19:898][193]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/CQ2BU35BYWEK56VHG3RTPC_Auto12F1CA69C4844312E06466F88182A1C06.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC_Auto1.uasset'
+[2024.03.30-15.52.19:900][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W_Auto1
+[2024.03.30-15.52.19:900][193]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/3V3CGSRJBH6QW8GACI184W_Auto19F9E7E474BE06344C85740B4D4C977A7.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W_Auto1.uasset'
+[2024.03.30-15.52.19:901][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.043
+[2024.03.30-15.52.19:901][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2024.03.30-15.52.19:901][193]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Teleport/Teleport] ([2] browsable assets)...
+[2024.03.30-15.52.19:909][193]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Teleport/Teleport.Teleport]
+[2024.03.30-15.52.19:909][193]OBJ SavePackage: Finished generating thumbnails for package [/Game/Teleport/Teleport]
+[2024.03.30-15.52.19:916][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Teleport/Teleport_Auto1
+[2024.03.30-15.52.19:916][193]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Teleport_Auto199D279834EDE7416FFCC709602D1DA6D.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/Teleport/Teleport_Auto1.uasset'
+[2024.03.30-15.52.19:916][193]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.03.30-15.53.28:682][319]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.03.30-15.54.18:620][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-15.54.18:958][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-15.54.19:050][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-15.54.19:091][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.30-15.54.51:324][453]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2024.03.30-15.54.51:331][453]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\go\Documents\Image-Line\FL Studio\Projects\CGT 255 Prime\ehh v2.mp3)
+[2024.03.30-15.54.55:783][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.30-15.54.57:836][604]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.30-15.54.57:856][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.30-15.54.57:871][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.30-15.54.57:886][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
