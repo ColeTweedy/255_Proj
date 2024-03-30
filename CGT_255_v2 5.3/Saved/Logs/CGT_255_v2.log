@@ -19407,3 +19407,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.30-15.54.57:856][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
 [2024.03.30-15.54.57:871][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2024.03.30-15.54.57:886][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.30-15.57.24:513][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.30-15.57.25:705][191]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-15.57.25:715][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-15.57.25:833][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.03.30-15.57.25:844][191]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.03.30-15.57.25:844][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ThirdPersonMap4FF290E14F7624E3195C94BA44959857.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.03.30-15.57.25:849][191]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W
+[2024.03.30-15.57.25:849][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-15.57.25:851][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC
+[2024.03.30-15.57.25:851][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/CQ2BU35BYWEK56VHG3RTPC068AF8154AD50F8E1F26349D3F5C2498.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC.uasset'
+[2024.03.30-15.57.25:854][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W
+[2024.03.30-15.57.25:854][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/3V3CGSRJBH6QW8GACI184W7FAB395345F847B523E89DAAB7F31139.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W.uasset'
+[2024.03.30-15.57.25:855][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 6 ms
+[2024.03.30-15.57.25:855][191]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W
+[2024.03.30-15.57.25:856][191]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.053
+[2024.03.30-15.57.25:858][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W
+[2024.03.30-15.57.25:858][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/3V3CGSRJBH6QW8GACI184W55C7012D403B76665A283EB19600C198.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0C/3V3CGSRJBH6QW8GACI184W.uasset'
+[2024.03.30-15.57.25:860][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC
+[2024.03.30-15.57.25:861][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/CQ2BU35BYWEK56VHG3RTPC9BF1A243409FF476B1198E8009861551.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/53/CQ2BU35BYWEK56VHG3RTPC.uasset'
+[2024.03.30-15.57.25:861][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Teleport/Teleport" FILE="../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/Teleport/Teleport.uasset" SILENT=true
+[2024.03.30-15.57.25:870][191]LogSavePackage: Moving output files for package: /Game/Teleport/Teleport
+[2024.03.30-15.57.25:870][191]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Teleport8624BFF94A70CA1864D5A79502B4C737.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/Teleport/Teleport.uasset'
+[2024.03.30-15.57.25:884][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 175 ms)
+[2024.03.30-15.57.25:887][191]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.30-15.57.25:887][191]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.03.30-15.57.25:887][191]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C8259E701_1326665759
+[2024.03.30-15.57.25:887][191]LogContentValidation: Display: Validating /Game/Enemy/Enemy.Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_UAID_2C6DC1912C8259E701_1740163760
+[2024.03.30-15.57.25:887][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Teleport/Teleport.Teleport
