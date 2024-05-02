@@ -3176,3 +3176,683 @@ UnknownFunction []
 [2024.05.02-20.16.05:460][450]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Pedal_1_Knobs.Pedal_1_Knobs
 [2024.05.02-20.16.05:460][450]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Pedal_2_Knobs.Pedal_2_Knobs
 [2024.05.02-20.16.05:460][450]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Pedal_3_Knobs.Pedal_3_Knobs
+[2024.05.02-20.17.48:040][833]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.05.02-20.17.48:040][833]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.05.02-20.18.38:242][857]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.05.02-20.25.52:852][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.25.53:413][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.25.54:542][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.26.01:972][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/SpawnerEnemy.SpawnerEnemy
+[2024.05.02-20.26.01:972][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.26.01:972][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.31.03:538][446]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Death.Death
+[2024.05.02-20.31.03:538][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.31.03:538][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.31.03:550][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.31.03:550][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.33.41:131][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker
+[2024.05.02-20.33.41:131][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.33.41:131][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.33.43:421][855]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.33.43:421][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.33.43:463][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker
+[2024.05.02-20.33.43:463][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.33.43:463][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.33.44:861][975]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.34.22:744][727]LogTexture: Display: Building textures: /Game/Characters/prototype_art/ChibiCharvF_-_Copy.ChibiCharvF_-_Copy (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: ================================================
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: Total job queries 138, among them cache hits 47 (34.06%)
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: Tracking 88 distinct input hashes that result in 62 distinct outputs (70.45%)
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: RAM used: 1.87 MiB of 3.20 GiB budget. Usage: 0.06%
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.02-20.38.08:162][476]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Jobs assigned 8, completed 5 (62.50%)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Average time worker was idle: 1608.77 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.06 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.29 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 1.30
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Shader code size: average 34.609 KiB, min 32.93 KiB, max 35.707 KiB
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.84 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Total thread time: 1.218 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Total thread preprocess time: 0.136 s
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Percentage time preprocessing: 11.19%
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Effective parallelization: 0.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.35 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.37% of total time (compiled    2 times, average 0.28 sec, max 0.35 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.03% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.62% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.98% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.02-20.38.08:163][476]LogShaderCompilers: Display: ================================================
+[2024.05.02-20.39.26:892][608]LogEditorTransaction: Undo Set Scale
+[2024.05.02-20.39.27:110][610]LogEditorTransaction: Undo Set Scale
+[2024.05.02-20.39.27:327][612]LogEditorTransaction: Undo Set Scale
+[2024.05.02-20.39.27:540][618]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-20.39.27:716][627]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-20.39.27:909][638]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-20.39.28:100][649]LogEditorTransaction: Undo Edit Sprite
+[2024.05.02-20.39.28:290][660]LogEditorTransaction: Undo Attach Component
+[2024.05.02-20.39.28:548][679]LogEditorTransaction: Undo Edit Sprite
+[2024.05.02-20.39.28:781][695]LogEditorTransaction: Undo Modify Component(s)
+[2024.05.02-20.39.29:892][816]LogEditorTransaction: Undo Rename Component Variable
+[2024.05.02-20.39.30:685][896]LogEditorTransaction: Undo Add Component
+[2024.05.02-20.39.57:528][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.39.57:556][760]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.39.57:592][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.39.57:624][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.40.01:311][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus
+[2024.05.02-20.40.01:311][119]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.40.01:312][119]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.40.03:067][303]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.40.03:067][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.40.03:112][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus
+[2024.05.02-20.40.03:113][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.40.03:113][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.40.12:773][422]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.40.13:613][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP-BaseCollectible.BP-BaseCollectible
+[2024.05.02-20.40.13:614][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.40.13:614][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.40.21:118][338]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.40.38:616][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.BP_Base_Pedal
+[2024.05.02-20.40.38:616][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.40.38:616][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.40.40:653][439]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.41.00:454][700]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.41.00:454][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.41.12:250][ 77]BlueprintLog: New page: Compile BP_Base_Pedal
+[2024.05.02-20.41.12:391][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.02-20.42.22:812][796]LogTexture: Display: Building textures: /Game/Characters/Animation_Source/Finished/Pedal_2_anim.Pedal_2_anim (BGRA8, 384x384 x1x1x1) (Required Memory Estimate: 4.375 MB), EncodeSpeed: Fast
+[2024.05.02-20.42.27:166][285]LogEditorTransaction: Undo Edit Sprite
+[2024.05.02-20.42.32:304][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.02-20.42.32:311][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-20.42.32:366][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8I/JT5XNRNMW9WCYZ5YY7IECS
+[2024.05.02-20.42.32:374][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/JT5XNRNMW9WCYZ5YY7IECS27F1B6DE46192BEA46B9E28AADF258FD.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8I/JT5XNRNMW9WCYZ5YY7IECS.uasset'
+[2024.05.02-20.42.32:383][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2
+[2024.05.02-20.42.32:391][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/VESNR07RY4XQ6471GYNSO2B29EEEBC4FB9EA3F3AC856A41127A824.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2.uasset'
+[2024.05.02-20.42.32:400][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/15/YIRM5M30WUFQ9RB3O60ZLA
+[2024.05.02-20.42.32:408][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/YIRM5M30WUFQ9RB3O60ZLAF5234A254D55DA97E10EAAB8C283D13B.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/15/YIRM5M30WUFQ9RB3O60ZLA.uasset'
+[2024.05.02-20.42.32:417][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TZ/6FRH2SVE7DDK9QLYJF1H1C
+[2024.05.02-20.42.32:425][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/6FRH2SVE7DDK9QLYJF1H1C33B4811A4EE4B8F1BF91B4A318455AEC.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TZ/6FRH2SVE7DDK9QLYJF1H1C.uasset'
+[2024.05.02-20.42.32:434][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O2/PNV4GG1QS4SSIUHV1RCJEG
+[2024.05.02-20.42.32:442][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/PNV4GG1QS4SSIUHV1RCJEG985CAA5F487B9E9D1E5EA1A6D67C26E3.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O2/PNV4GG1QS4SSIUHV1RCJEG.uasset'
+[2024.05.02-20.42.32:451][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25
+[2024.05.02-20.42.32:459][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/E8YTND6P86JCR6Y0UGRY259C24E43641F8B1C33A1C09A14C259407.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25.uasset'
+[2024.05.02-20.42.32:467][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/M8/22WJZSBZCB29EJEB271C53
+[2024.05.02-20.42.32:475][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/22WJZSBZCB29EJEB271C53E04E19764DB33B8FEEA6BB9CEB354ED1.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/M8/22WJZSBZCB29EJEB271C53.uasset'
+[2024.05.02-20.42.32:484][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII
+[2024.05.02-20.42.32:492][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/MQXUUCSSK98VO1NR91VCII4FAC99F9473D87BEBF444293E7EAB031.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII.uasset'
+[2024.05.02-20.42.32:500][702]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L4/NGBIPDW9JJO8UBF9AX84CX
+[2024.05.02-20.42.32:508][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/NGBIPDW9JJO8UBF9AX84CXDF521AF14EF585FEDF20AFBAC594413E.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/L4/NGBIPDW9JJO8UBF9AX84CX.uasset'
+[2024.05.02-20.42.32:522][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator
+[2024.05.02-20.42.32:528][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Rapid_Riffinator880BE8E9469E0C6DC34FBDB43408DCA0.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.uasset'
+[2024.05.02-20.42.32:551][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP-BaseCollectible
+[2024.05.02-20.42.32:556][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP-BaseCollectible5BD6B056472090C1292EDDA4F970D5A7.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/BP-BaseCollectible.uasset'
+[2024.05.02-20.42.32:578][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal
+[2024.05.02-20.42.32:583][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_PedalF6B8DD324CA164D4129D94BC452C75DB.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.uasset'
+[2024.05.02-20.42.32:599][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker
+[2024.05.02-20.42.32:604][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Bullet_Breaker7819071B476592BB9EC633A1806DAA0D.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.uasset'
+[2024.05.02-20.42.32:620][702]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus
+[2024.05.02-20.42.32:626][702]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Chaos_ChorusA4EDDB364323DB08802457B6EE889430.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.uasset'
+[2024.05.02-20.42.32:639][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 326 ms (total: 927 ms)
+[2024.05.02-20.42.32:748][702]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_64006A7427E9B3E801_1182969657
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_B44506B9184CC5F101_2140347327
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_309C23BB3FDCE7DF01_1215802305
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Bullet_Breaker_C_UAID_2C6DC1912C82BDE801_1311201432
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Chaos_Chorus_C_UAID_309C23BB3FDCE7DF01_1481874306
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_309C23BB3FDCF0E801_1957469392
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Bullet_Breaker_C_UAID_64006A7427E9B3E801_1175038655
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Chaos_Chorus_C_UAID_309C23BB3FDCF0E801_1953738391
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Bullet_Breaker_C_UAID_309C23BB3FDCE9DF01_1835644659
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP-BaseCollectible.BP-BaseCollectible
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.BP_Base_Pedal
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker
+[2024.05.02-20.42.32:748][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus
+[2024.05.02-20.42.36:133][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.42.36:151][ 24]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.42.36:151][ 24]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.42.36:152][ 24]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.42.36:156][ 24]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 16 ms)
+[2024.05.02-20.42.36:156][ 24]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-20.42.36:160][ 24]LogPlayLevel: [PlayLevel] Compiling BP-BaseCollectible before play...
+[2024.05.02-20.42.36:161][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Base_Pedal as a dependent...
+[2024.05.02-20.42.36:161][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Bullet_Breaker as a dependent...
+[2024.05.02-20.42.36:162][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Chaos_Chorus as a dependent...
+[2024.05.02-20.42.36:162][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Rapid_Riffinator as a dependent...
+[2024.05.02-20.42.36:252][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.02-20.42.36:254][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (5 blueprints)
+[2024.05.02-20.42.36:254][ 24]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:42:36 PM)
+[2024.05.02-20.42.36:281][ 24]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.42.36:311][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029552s)
+[2024.05.02-20.42.36:311][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.029619s)
+[2024.05.02-20.42.36:329][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.05.02-20.42.36:331][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.42.36:331][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.42.36:331][ 24]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.42.36:332][ 24]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.42.36:332][ 24]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.42.36:332][ 24]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.42.36:332][ 24]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.42.36:338][ 24]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.42.36:338][ 24]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 541 ms)
+[2024.05.02-20.42.36:338][ 24]LogPlayLevel: PIE: World Init took: (0.007491s)
+[2024.05.02-20.42.36:338][ 24]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.42.36:338][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.42.36:338][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.42.36:339][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.42.36:339][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.42.36:339][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.42.36:341][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.42.36:366][ 24]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.42.36:367][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.42.36:367][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.42.36:367][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.42.36:369][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.02-20.42.36:369][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.02-20.42.36:371][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.02-20.42.36:371][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.02-20.42.36:371][ 24]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.02-20.42.36:371][ 24]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.42.36:371][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-20.42.36:375][ 24]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.42.36:392][ 24]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.42.36
+[2024.05.02-20.42.36:392][ 24]LogWorld: Bringing up level for play took: 0.016820
+[2024.05.02-20.42.36:395][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.02-20.42.36:401][ 24]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.42.36:401][ 24]PIE: Server logged in
+[2024.05.02-20.42.36:402][ 24]PIE: Play in editor total start time 0.25 seconds.
+[2024.05.02-20.42.37:685][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.42.37:685][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.42.37:685][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.42.43:271][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.42.43:271][729]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.42.43:272][729]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.42.43:274][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.42.43:274][729]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.42.43:278][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.42.43:284][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.42.43:302][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.42.43:303][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.02-20.42.43:303][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-20.42.43:305][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.02-20.42.43:309][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.42.43:319][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.02-20.42.43:542][730]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.02-20.42.44:581][801]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.42.44:595][801]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.43.32:857][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.43.32:875][ 66]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.43.32:875][ 66]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.43.32:877][ 66]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.43.32:880][ 66]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 20 ms)
+[2024.05.02-20.43.32:880][ 66]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-20.43.32:883][ 66]LogPlayLevel: [PlayLevel] Compiling BP_Base_Pedal before play...
+[2024.05.02-20.43.32:883][ 66]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Bullet_Breaker as a dependent...
+[2024.05.02-20.43.32:883][ 66]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Chaos_Chorus as a dependent...
+[2024.05.02-20.43.32:883][ 66]LogPlayLevel: [PlayLevel]   Compiling BP_Pedal_Rapid_Riffinator as a dependent...
+[2024.05.02-20.43.32:975][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.02-20.43.32:977][ 66]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (4 blueprints)
+[2024.05.02-20.43.32:977][ 66]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:43:32 PM)
+[2024.05.02-20.43.32:977][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.43.33:002][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024850s)
+[2024.05.02-20.43.33:002][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024884s)
+[2024.05.02-20.43.33:017][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.02-20.43.33:018][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.43.33:019][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.43.33:019][ 66]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.43.33:020][ 66]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.43.33:020][ 66]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.43.33:020][ 66]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.43.33:020][ 66]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.43.33:026][ 66]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.43.33:026][ 66]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 547 ms)
+[2024.05.02-20.43.33:026][ 66]LogPlayLevel: PIE: World Init took: (0.007434s)
+[2024.05.02-20.43.33:026][ 66]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.43.33:026][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.43.33:026][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.43.33:027][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.43.33:027][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.43.33:027][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.43.33:029][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.43.33:059][ 66]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.43.33:059][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.43.33:059][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.43.33:059][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.43.33:060][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.02-20.43.33:060][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.02-20.43.33:062][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.02-20.43.33:062][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.02-20.43.33:062][ 66]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.02-20.43.33:062][ 66]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.43.33:062][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-20.43.33:066][ 66]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.43.33:078][ 66]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.43.33
+[2024.05.02-20.43.33:079][ 66]LogWorld: Bringing up level for play took: 0.012108
+[2024.05.02-20.43.33:081][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.05.02-20.43.33:085][ 66]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.43.33:086][ 66]PIE: Server logged in
+[2024.05.02-20.43.33:087][ 66]PIE: Play in editor total start time 0.211 seconds.
+[2024.05.02-20.43.37:034][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:035][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:035][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:076][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:076][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:076][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:127][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:127][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:127][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:339][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:339][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:339][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:370][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:371][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:371][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:390][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:390][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:391][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:421][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:421][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:421][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:471][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:471][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:471][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:511][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:511][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:511][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:552][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:552][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.37:552][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:177][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:178][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:178][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:219][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:219][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:219][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:228][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:228][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:228][592]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_11 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_11 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:270][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:271][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:271][596]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_13 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_13 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:271][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:271][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:271][596]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:311][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:311][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:311][600]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:351][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:351][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.38:351][604]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:205][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:205][688]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:205][688]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:245][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:245][692]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:245][692]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:286][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:286][696]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:286][696]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:337][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:338][701]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:338][701]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:368][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:368][704]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:368][704]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:409][708]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:409][708]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:409][708]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:704][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:705][737]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:705][737]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:735][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:735][740]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:735][740]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:775][744]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:775][744]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:775][744]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:826][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:826][749]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:826][749]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:866][753]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:867][753]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:867][753]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:918][758]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:918][758]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:918][758]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:989][765]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:989][765]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.39:989][765]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:240][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_29 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_29 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:240][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:240][790]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:261][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_29 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_29 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:261][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:261][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:290][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_32 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_32 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:290][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:290][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:290][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_30 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_30 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:290][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:291][795]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:330][799]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_30 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_30 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:331][799]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:331][799]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.43.40:381][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.43.40:381][800]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.43.40:382][800]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.43.40:384][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.43.40:384][800]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.43.40:388][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.43.40:394][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.43.40:414][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.43.40:417][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.02-20.43.40:417][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-20.43.40:419][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.02-20.43.40:431][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.05.02-20.43.40:621][801]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.05.02-20.43.41:860][881]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.43.41:868][881]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.44.49:949][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.44.49:969][557]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.44.49:969][557]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.44.49:970][557]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.44.49:973][557]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 24 ms)
+[2024.05.02-20.44.49:975][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.44.49:975][557]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:44:49 PM)
+[2024.05.02-20.44.49:975][557]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.44.50:001][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024911s)
+[2024.05.02-20.44.50:001][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024940s)
+[2024.05.02-20.44.50:019][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.02-20.44.50:023][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.44.50:023][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.44.50:023][557]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.44.50:025][557]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.44.50:025][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.44.50:025][557]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.44.50:025][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.44.50:030][557]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.44.50:030][557]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 553 ms)
+[2024.05.02-20.44.50:030][557]LogPlayLevel: PIE: World Init took: (0.007433s)
+[2024.05.02-20.44.50:030][557]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.44.50:030][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.44.50:030][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.44.50:031][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.44.50:031][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.44.50:031][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.44.50:033][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.44.50:057][557]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.44.50:057][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.44.50:057][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.44.50:057][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.44.50:057][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.02-20.44.50:057][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.02-20.44.50:060][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.02-20.44.50:060][557]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.02-20.44.50:060][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.02-20.44.50:060][557]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.44.50:060][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.02-20.44.50:064][557]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.44.50:075][557]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.44.50
+[2024.05.02-20.44.50:076][557]LogWorld: Bringing up level for play took: 0.011497
+[2024.05.02-20.44.50:078][557]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.05.02-20.44.50:082][557]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.44.50:083][557]PIE: Server logged in
+[2024.05.02-20.44.50:084][557]PIE: Play in editor total start time 0.115 seconds.
+[2024.05.02-20.44.50:779][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.44.50:779][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.44.50:779][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.44.51:640][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.44.51:641][709]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.44.51:641][709]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.44.51:643][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.44.51:643][709]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.44.51:648][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.44.51:656][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.44.51:677][709]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.44.51:677][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.02-20.44.51:677][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-20.44.51:679][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.02-20.44.51:684][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.44.51:690][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.02-20.44.51:861][710]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.05.02-20.44.53:461][826]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.44.53:477][826]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.45.14:458][696]Cmd: TRANSACTION UNDO
+[2024.05.02-20.45.14:458][696]LogEditorTransaction: Undo Edit U
+[2024.05.02-20.45.53:608][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.02-20.45.53:618][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII_Auto1
+[2024.05.02-20.45.53:618][209]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/MQXUUCSSK98VO1NR91VCII_Auto1577B981A4544EE6FB0F2248EEAD2AC65.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII_Auto1.uasset'
+[2024.05.02-20.45.53:620][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.05.02-20.45.53:620][209]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.05.02-20.45.53:621][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal] ([2] browsable assets)...
+[2024.05.02-20.45.53:621][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal]
+[2024.05.02-20.45.53:640][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal_Auto1
+[2024.05.02-20.45.53:646][209]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_Pedal_Auto1C807B24544A64531E2F64987E2397925.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal_Auto1.uasset'
+[2024.05.02-20.45.53:647][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker] ([2] browsable assets)...
+[2024.05.02-20.45.53:647][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker]
+[2024.05.02-20.45.53:658][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker_Auto1
+[2024.05.02-20.45.53:665][209]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Bullet_Breaker_Auto160A2AEBD4302863B7444DFA6AD83A743.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker_Auto1.uasset'
+[2024.05.02-20.45.53:667][209]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus] ([2] browsable assets)...
+[2024.05.02-20.45.53:667][209]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus]
+[2024.05.02-20.45.53:677][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus_Auto1
+[2024.05.02-20.45.53:682][209]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Chaos_Chorus_Auto1EDB4D2F34C0272A118081E885DCDBE6F.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus_Auto1.uasset'
+[2024.05.02-20.45.53:683][209]LogFileHelpers: Auto-saving content packages took 0.063
+[2024.05.02-20.46.28:761][511]BlueprintLog: New page: Compile BP_Base_Pedal
+[2024.05.02-20.46.28:825][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.02-20.46.30:597][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.46.30:615][660]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.46.30:615][660]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.46.30:616][660]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.46.30:619][660]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 28 ms)
+[2024.05.02-20.46.30:619][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.46.30:619][660]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:46:30 PM)
+[2024.05.02-20.46.30:649][660]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.46.30:678][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029331s)
+[2024.05.02-20.46.30:678][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.029374s)
+[2024.05.02-20.46.30:698][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.02-20.46.30:701][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.46.30:701][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.46.30:702][660]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.46.30:702][660]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.46.30:702][660]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.46.30:702][660]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.46.30:702][660]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.46.30:709][660]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.46.30:709][660]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 559 ms)
+[2024.05.02-20.46.30:709][660]LogPlayLevel: PIE: World Init took: (0.007402s)
+[2024.05.02-20.46.30:709][660]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.46.30:709][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.46.30:709][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.46.30:709][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.46.30:709][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.46.30:709][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.46.30:712][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.46.30:736][660]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.46.30:737][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.46.30:737][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.46.30:737][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.46.30:738][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.02-20.46.30:738][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.02-20.46.30:740][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.02-20.46.30:740][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.02-20.46.30:740][660]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.02-20.46.30:740][660]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.46.30:740][660]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.02-20.46.30:744][660]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.46.30:756][660]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.46.30
+[2024.05.02-20.46.30:756][660]LogWorld: Bringing up level for play took: 0.011740
+[2024.05.02-20.46.30:758][660]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.02-20.46.30:763][660]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.46.30:763][660]PIE: Server logged in
+[2024.05.02-20.46.30:764][660]PIE: Play in editor total start time 0.148 seconds.
+[2024.05.02-20.46.31:471][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.31:472][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.31:472][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.34:478][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.46.34:479][ 51]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.46.34:479][ 51]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.46.34:481][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.46.34:481][ 51]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.46.34:486][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.46.34:493][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.46.34:512][ 51]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.46.34:512][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.02-20.46.34:512][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-20.46.34:514][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-20.46.34:519][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.46.34:526][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.02-20.46.34:698][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.02-20.46.35:676][115]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.46.35:695][115]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.46.48:323][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.46.48:342][202]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.46.48:342][202]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.46.48:343][202]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.46.48:347][202]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 32 ms)
+[2024.05.02-20.46.48:347][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.46.48:347][202]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:46:48 PM)
+[2024.05.02-20.46.48:347][202]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.46.48:372][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024753s)
+[2024.05.02-20.46.48:372][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.024783s)
+[2024.05.02-20.46.48:391][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.02-20.46.48:395][202]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.46.48:395][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.46.48:396][202]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.46.48:396][202]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.46.48:396][202]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.46.48:396][202]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.46.48:396][202]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.46.48:402][202]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.46.48:402][202]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 565 ms)
+[2024.05.02-20.46.48:402][202]LogPlayLevel: PIE: World Init took: (0.007255s)
+[2024.05.02-20.46.48:402][202]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.46.48:402][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.46.48:402][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.46.48:403][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.46.48:403][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.46.48:403][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.46.48:405][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.46.48:427][202]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.46.48:428][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.46.48:428][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.46.48:428][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.46.48:428][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.02-20.46.48:428][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.02-20.46.48:431][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.02-20.46.48:431][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.02-20.46.48:431][202]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.02-20.46.48:431][202]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.46.48:431][202]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.02-20.46.48:434][202]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.46.48:451][202]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.46.48
+[2024.05.02-20.46.48:451][202]LogWorld: Bringing up level for play took: 0.016954
+[2024.05.02-20.46.48:454][202]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.05.02-20.46.48:459][202]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.46.48:459][202]PIE: Server logged in
+[2024.05.02-20.46.48:460][202]PIE: Play in editor total start time 0.118 seconds.
+[2024.05.02-20.46.48:976][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.48:976][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.48:976][237]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.55:945][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.55:945][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.55:945][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:305][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:305][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:305][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:622][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:622][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:622][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:763][ 28]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:763][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:763][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:866][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:866][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_6 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Chaos_Chorus_Projectile_C_6 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:866][ 38]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:898][ 41]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:898][ 41]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_4 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Chaos_Chorus_Projectile_C_4 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:898][ 41]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:977][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:977][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_7 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Chaos_Chorus_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.56:978][ 49]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:109][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:109][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Chaos_Chorus_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:109][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:311][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:311][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Chaos_Chorus_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:311][ 82]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:414][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:414][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Chaos_Chorus_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.57:414][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.58:982][250]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_2 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Chaos_Chorus_Projectile_C_2 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.58:982][250]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Chaos_Chorus_Projectile_C_9 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Chaos_Chorus_Projectile_C_9 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.58:982][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.46.59:379][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.46.59:379][287]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.46.59:380][287]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.46.59:382][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.46.59:382][287]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.46.59:389][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.46.59:396][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.46.59:416][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.46.59:417][287]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.02-20.46.59:417][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.02-20.46.59:419][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.02-20.46.59:425][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.46.59:432][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.02-20.46.59:606][288]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.05.02-20.47.01:049][387]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.47.01:056][387]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.47.14:695][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.02-20.47.14:702][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-20.47.14:747][660]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII
+[2024.05.02-20.47.14:754][660]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/MQXUUCSSK98VO1NR91VCII54A4664A46272E0DCAC3BB99BC528778.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4J/MQXUUCSSK98VO1NR91VCII.uasset'
+[2024.05.02-20.47.14:775][660]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal
+[2024.05.02-20.47.14:780][660]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_PedalF714D925423C2EAFC6C65DB23FFC1314.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.uasset'
+[2024.05.02-20.47.14:791][660]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker
+[2024.05.02-20.47.14:796][660]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Bullet_BreakerAA0D8FC143BA2976E87307A8EAEAF8CE.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.uasset'
+[2024.05.02-20.47.14:807][660]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus
+[2024.05.02-20.47.14:813][660]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Pedal_Chaos_Chorus883220BC4778183FD6B4DCB812435CCC.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.uasset'
+[2024.05.02-20.47.14:821][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.04 sec)
+[2024.05.02-20.47.14:825][660]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Chaos_Chorus_C_UAID_309C23BB3FDCF0E801_1953738391
+[2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.BP_Base_Pedal
+[2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker
+[2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus
