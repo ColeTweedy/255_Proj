@@ -2925,3 +2925,360 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-19.02.08:978][791]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1163959164
 [2024.05.02-19.02.08:978][791]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1280713167
 [2024.05.02-19.02.08:978][791]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C4F101_1255625166
+[2024.05.02-19.05.17:129][811]Cmd: DUPLICATE
+[2024.05.02-19.05.17:129][811]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.06.02:627][294]Cmd: DUPLICATE
+[2024.05.02-19.06.02:627][294]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.06.25:293][637]Cmd: DUPLICATE
+[2024.05.02-19.06.25:293][637]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.06.46:990][921]Cmd: DUPLICATE
+[2024.05.02-19.06.46:990][921]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.07.59:668][255]Cmd: DUPLICATE
+[2024.05.02-19.07.59:668][255]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.09.28:249][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.02-19.09.28:255][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2G/39GUE7Z4DVOVZCFNHVIDO4_Auto3
+[2024.05.02-19.09.28:255][595]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/39GUE7Z4DVOVZCFNHVIDO4_Auto3BDF8729745D520CE8B7A2992072A8952.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2G/39GUE7Z4DVOVZCFNHVIDO4_Auto3.uasset'
+[2024.05.02-19.09.28:256][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MZ/QGHD3VQAR8HSDUAN30FY6T_Auto3
+[2024.05.02-19.09.28:257][595]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/QGHD3VQAR8HSDUAN30FY6T_Auto33F04FA5F47F03655156591A9DD80992D.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MZ/QGHD3VQAR8HSDUAN30FY6T_Auto3.uasset'
+[2024.05.02-19.09.28:259][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RM/O3TJEJQ5UAXXQJQMHV91RF_Auto3
+[2024.05.02-19.09.28:259][595]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/O3TJEJQ5UAXXQJQMHV91RF_Auto3FCE07A9A49B2F0AA90CCDCAE21675FA7.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RM/O3TJEJQ5UAXXQJQMHV91RF_Auto3.uasset'
+[2024.05.02-19.09.28:260][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WW/7KVY64NUHZTI5EIGYIH80W_Auto3
+[2024.05.02-19.09.28:260][595]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/7KVY64NUHZTI5EIGYIH80W_Auto3D384EED74BA704B02B0930BE4CC9F2AA.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WW/7KVY64NUHZTI5EIGYIH80W_Auto3.uasset'
+[2024.05.02-19.09.28:263][595]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XL/DO4Q7NLWO8YY8ZAE89QYH8_Auto3
+[2024.05.02-19.09.28:263][595]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/DO4Q7NLWO8YY8ZAE89QYH8_Auto312BBC68A4BB2A7363D4808AF08F235DA.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XL/DO4Q7NLWO8YY8ZAE89QYH8_Auto3.uasset'
+[2024.05.02-19.09.28:264][595]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.033
+[2024.05.02-19.09.28:264][595]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.05.02-19.10.16:798][ 90]Cmd: DUPLICATE
+[2024.05.02-19.10.16:799][ 90]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.11.28:061][194]Cmd: DUPLICATE
+[2024.05.02-19.11.28:061][194]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.13.00:121][ 87]Cmd: DUPLICATE
+[2024.05.02-19.13.00:121][ 87]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.13.12:733][338]Cmd: DUPLICATE
+[2024.05.02-19.13.12:734][338]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.13.52:902][498]Cmd: DUPLICATE
+[2024.05.02-19.13.52:902][498]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.14.29:428][906]Cmd: DELETE
+[2024.05.02-19.14.29:429][906]Cmd: ACTOR DELETE
+[2024.05.02-19.14.29:439][906]LogEditorActor: Deleted Actor: Teleport_C
+[2024.05.02-19.14.29:470][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.02-19.14.29:473][906]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.05.02-19.15.10:458][176]Cmd: DUPLICATE
+[2024.05.02-19.15.10:458][176]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.15.58:061][168]Cmd: DUPLICATE
+[2024.05.02-19.15.58:061][168]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.16.32:703][314]Cmd: DUPLICATE
+[2024.05.02-19.16.32:703][314]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.16.32:703][314]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.05.02-19.16.58:573][852]Cmd: TRANSACTION UNDO
+[2024.05.02-19.16.58:573][852]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.02-19.16.58:972][857]Cmd: TRANSACTION UNDO
+[2024.05.02-19.16.58:972][857]LogEditorTransaction: Undo Move Elements
+[2024.05.02-19.18.11:914][317]Cmd: DUPLICATE
+[2024.05.02-19.18.11:914][317]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.18.32:969][469]Cmd: DUPLICATE
+[2024.05.02-19.18.32:969][469]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.19.16:605][902]Cmd: DUPLICATE
+[2024.05.02-19.19.16:605][902]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.21.05:376][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-19.21.05:524][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.05.02-19.21.05:529][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-19.21.05:535][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.02-19.21.05:541][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PY/3SZ8PGXHU9CEKRJOGLRC4I
+[2024.05.02-19.21.05:541][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/3SZ8PGXHU9CEKRJOGLRC4I5138327540BC79035E9E4F8170D30527.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PY/3SZ8PGXHU9CEKRJOGLRC4I.uasset'
+[2024.05.02-19.21.05:544][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UE/P63TXNBMW10ODZ0VM8N3OI
+[2024.05.02-19.21.05:545][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/P63TXNBMW10ODZ0VM8N3OI9C75325D430F6F696AA39BAF24ECF6E3.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UE/P63TXNBMW10ODZ0VM8N3OI.uasset'
+[2024.05.02-19.21.05:547][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DR/ID7Z3XWL9PZYFAB6FMUNJB
+[2024.05.02-19.21.05:548][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ID7Z3XWL9PZYFAB6FMUNJB763999CD4BCEF0FF7898BE8EAE5DEE96.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DR/ID7Z3XWL9PZYFAB6FMUNJB.uasset'
+[2024.05.02-19.21.05:550][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6E/8S42DB9GB0BDAU950SZ0LM
+[2024.05.02-19.21.05:550][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/8S42DB9GB0BDAU950SZ0LM8A84B44E42F973CFDE0E2897760FAD59.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6E/8S42DB9GB0BDAU950SZ0LM.uasset'
+[2024.05.02-19.21.05:555][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DJ/HNR78F9HC0CGZLBFCWB6W5
+[2024.05.02-19.21.05:555][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/HNR78F9HC0CGZLBFCWB6W59131AFC1417F9399E21166A6C7ABA061.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/DJ/HNR78F9HC0CGZLBFCWB6W5.uasset'
+[2024.05.02-19.21.05:559][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2G/39GUE7Z4DVOVZCFNHVIDO4
+[2024.05.02-19.21.05:559][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/39GUE7Z4DVOVZCFNHVIDO4E6671F7B4A1942BE393A92A138CD9883.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2G/39GUE7Z4DVOVZCFNHVIDO4.uasset'
+[2024.05.02-19.21.05:563][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MZ/QGHD3VQAR8HSDUAN30FY6T
+[2024.05.02-19.21.05:563][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/QGHD3VQAR8HSDUAN30FY6TC74A96C84D43296179261694B352AE3F.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MZ/QGHD3VQAR8HSDUAN30FY6T.uasset'
+[2024.05.02-19.21.05:565][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RM/O3TJEJQ5UAXXQJQMHV91RF
+[2024.05.02-19.21.05:565][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/O3TJEJQ5UAXXQJQMHV91RFFBB359A445FE5146937B98BE2D6645D0.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RM/O3TJEJQ5UAXXQJQMHV91RF.uasset'
+[2024.05.02-19.21.05:568][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WW/7KVY64NUHZTI5EIGYIH80W
+[2024.05.02-19.21.05:568][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/7KVY64NUHZTI5EIGYIH80W20882C994FC2C7C6796AC19DF4D3C035.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WW/7KVY64NUHZTI5EIGYIH80W.uasset'
+[2024.05.02-19.21.05:572][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XL/DO4Q7NLWO8YY8ZAE89QYH8
+[2024.05.02-19.21.05:572][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/DO4Q7NLWO8YY8ZAE89QYH82F07ADEF4400662743166C9506A70C22.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XL/DO4Q7NLWO8YY8ZAE89QYH8.uasset'
+[2024.05.02-19.21.05:575][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MI/ERG8CI18FXSH3HUIIQBSEY
+[2024.05.02-19.21.05:575][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ERG8CI18FXSH3HUIIQBSEYFDE498F54F47400C3F07868DE294943E.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MI/ERG8CI18FXSH3HUIIQBSEY.uasset'
+[2024.05.02-19.21.05:578][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2X/JHV5PPIS7VL8M8RY2XJRM2
+[2024.05.02-19.21.05:578][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/JHV5PPIS7VL8M8RY2XJRM2C378846743540E6AA9D588BD119B9860.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2X/JHV5PPIS7VL8M8RY2XJRM2.uasset'
+[2024.05.02-19.21.05:582][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV
+[2024.05.02-19.21.05:582][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/VBW0XUN7NVQ6KU3S94ZYTV0A8AA2714B9C813AE0A159B692079EEA.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV.uasset'
+[2024.05.02-19.21.05:585][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/4O/LY0DIA82IINEVO1W521CG1
+[2024.05.02-19.21.05:585][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/LY0DIA82IINEVO1W521CG1035D5D1C4CBCD3C1F95F79998A8D0FD0.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/4O/LY0DIA82IINEVO1W521CG1.uasset'
+[2024.05.02-19.21.05:588][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K9/N2TP82ZOUSFF2SMUL3XZ54
+[2024.05.02-19.21.05:588][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/N2TP82ZOUSFF2SMUL3XZ54B1CEB31A4030E392E2B117815ECE5C5E.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/K9/N2TP82ZOUSFF2SMUL3XZ54.uasset'
+[2024.05.02-19.21.05:590][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HJ/58WR3WNRBI0CIBB2K5KUR9
+[2024.05.02-19.21.05:590][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/58WR3WNRBI0CIBB2K5KUR969BF305246674F7670A6789E35C55335.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HJ/58WR3WNRBI0CIBB2K5KUR9.uasset'
+[2024.05.02-19.21.05:593][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/80/AAMDNA383KBFL8EPPTBDMS
+[2024.05.02-19.21.05:593][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/AAMDNA383KBFL8EPPTBDMS6C03ED564FD0E96AD69DFAB798B91027.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/80/AAMDNA383KBFL8EPPTBDMS.uasset'
+[2024.05.02-19.21.05:595][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/60/MSDWU8LY5X53ZCZMHI6YJ2
+[2024.05.02-19.21.05:596][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/MSDWU8LY5X53ZCZMHI6YJ23DB0E9EC46306137B54DC7A65F1C89D6.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/60/MSDWU8LY5X53ZCZMHI6YJ2.uasset'
+[2024.05.02-19.21.05:601][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FT/80JWRG75ZRSK1SJTKR3AE8
+[2024.05.02-19.21.05:601][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/80JWRG75ZRSK1SJTKR3AE8099A452B4194DA166B9D28BE1AF4A106.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FT/80JWRG75ZRSK1SJTKR3AE8.uasset'
+[2024.05.02-19.21.05:603][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TH/FE6YXZSQD0JHM9JV1U99AA
+[2024.05.02-19.21.05:603][482]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/FE6YXZSQD0JHM9JV1U99AAA28E4C0044D5706C4151A6979018396D.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TH/FE6YXZSQD0JHM9JV1U99AA.uasset'
+[2024.05.02-19.21.05:625][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 777 ms)
+[2024.05.02-19.21.05:630][482]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C4F101_1088691161
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1100746162
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1155330163
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1280713167
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C4F101_1255625166
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C4F101_1817724168
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1863220169
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1885886170
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_1907584171
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C4F101_1980262172
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C4F101_2117392173
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1114913350
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C5F101_1206974351
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1219586352
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1337310354
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1384913355
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1419555356
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1518767357
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C5F101_1539821358
+[2024.05.02-19.21.05:630][482]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1583457359
+[2024.05.02-19.21.39:593][300]Cmd: DUPLICATE
+[2024.05.02-19.21.39:593][300]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.22.26:037][ 20]Cmd: DUPLICATE
+[2024.05.02-19.22.26:037][ 20]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.22.37:907][256]Cmd: DUPLICATE
+[2024.05.02-19.22.37:907][256]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.23.27:291][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.05.02-19.23.27:297][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV_Auto4
+[2024.05.02-19.23.27:297][ 86]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/VBW0XUN7NVQ6KU3S94ZYTV_Auto435FFD6DC4C0553C05F44C89E430B20AF.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV_Auto4.uasset'
+[2024.05.02-19.23.27:300][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X3/N6BI9ADECJO8W77D4CZ0PR_Auto4
+[2024.05.02-19.23.27:300][ 86]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/N6BI9ADECJO8W77D4CZ0PR_Auto4C8F8E41E49D616FA590BAFB6EE81A4CD.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X3/N6BI9ADECJO8W77D4CZ0PR_Auto4.uasset'
+[2024.05.02-19.23.27:304][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WG/1Y6BVRN73D0VOX4KI9YMCP_Auto4
+[2024.05.02-19.23.27:304][ 86]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/1Y6BVRN73D0VOX4KI9YMCP_Auto472D17D454AC0A4DB5F17D5AACF13B8A1.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WG/1Y6BVRN73D0VOX4KI9YMCP_Auto4.uasset'
+[2024.05.02-19.23.27:307][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/INTJA7Q4695IYXYSEUDKB9_Auto4
+[2024.05.02-19.23.27:307][ 86]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/INTJA7Q4695IYXYSEUDKB9_Auto49AF07F684AD67DAB4B2945AC0CF1BFA2.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/INTJA7Q4695IYXYSEUDKB9_Auto4.uasset'
+[2024.05.02-19.23.27:307][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2024.05.02-19.23.27:308][ 86]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.05.02-19.27.44:799][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-19.27.44:808][773]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-19.27.44:808][773]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-19.27.44:809][773]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-19.27.44:811][773]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 30 ms)
+[2024.05.02-19.27.44:811][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-19.27.44:811][773]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 11:27:44 AM)
+[2024.05.02-19.27.44:851][773]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-19.27.44:873][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021249s)
+[2024.05.02-19.27.44:873][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021297s)
+[2024.05.02-19.27.44:881][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.02-19.27.44:882][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-19.27.44:882][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-19.27.44:883][773]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-19.27.44:884][773]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-19.27.44:884][773]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-19.27.44:884][773]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-19.27.44:884][773]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-19.27.44:889][773]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-19.27.44:889][773]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 486 ms)
+[2024.05.02-19.27.44:889][773]LogPlayLevel: PIE: World Init took: (0.008013s)
+[2024.05.02-19.27.44:889][773]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-19.27.44:889][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-19.27.44:889][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-19.27.44:890][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-19.27.44:890][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-19.27.44:890][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-19.27.44:893][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-19.27.44:947][773]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Intel® Smart Sound Technology for MIPI SoundWire® Audio)
+[2024.05.02-19.27.44:947][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-19.27.44:947][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-19.27.44:947][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-19.27.44:948][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.02-19.27.44:948][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.02-19.27.44:949][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.02-19.27.44:949][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.02-19.27.44:949][773]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.02-19.27.44:949][773]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.05.02-19.27.44:949][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.02-19.27.44:953][773]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-19.27.44:962][773]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-15.27.44
+[2024.05.02-19.27.44:962][773]LogWorld: Bringing up level for play took: 0.009074
+[2024.05.02-19.27.44:965][773]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.05.02-19.27.44:968][773]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-19.27.44:969][773]PIE: Server logged in
+[2024.05.02-19.27.44:969][773]PIE: Play in editor total start time 0.162 seconds.
+[2024.05.02-19.27.46:357][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-19.27.46:357][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-19.27.46:357][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-19.27.46:782][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-19.27.46:782][985]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-19.27.46:782][985]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-19.27.46:784][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-19.27.46:784][985]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-19.27.46:787][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-19.27.46:790][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-19.27.46:796][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-19.27.46:798][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.02-19.27.46:798][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-19.27.46:800][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.02-19.27.46:811][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.02-19.27.46:991][986]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.05.02-19.27.52:943][654]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-19.27.52:952][654]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-19.28.41:765][594]Cmd: DUPLICATE
+[2024.05.02-19.28.41:766][594]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.30.14:870][973]Cmd: DUPLICATE
+[2024.05.02-19.30.14:870][973]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.31.17:834][500]Cmd: DUPLICATE
+[2024.05.02-19.31.17:834][500]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.32.20:558][523]LogDerivedDataCache: C:/Users/go/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.249 and deleted 0 files with total size 0 MiB and 7 empty folders. Scanned 14253 files in 16601 folders with total size 1623 MiB.
+[2024.05.02-19.33.34:489][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.02-19.33.34:494][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV_Auto5
+[2024.05.02-19.33.34:494][411]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/VBW0XUN7NVQ6KU3S94ZYTV_Auto5968407E844E3D35C4BF06E970DB09B1F.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV_Auto5.uasset'
+[2024.05.02-19.33.34:497][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ED/ZPR81FJCYDMEO6QAJNGM3D_Auto5
+[2024.05.02-19.33.34:498][411]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ZPR81FJCYDMEO6QAJNGM3D_Auto5B9D08EE540EDF138F079A588FDB60B22.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ED/ZPR81FJCYDMEO6QAJNGM3D_Auto5.uasset'
+[2024.05.02-19.33.34:499][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/09/QMT58SAJYIQU5KR7HM6554_Auto5
+[2024.05.02-19.33.34:499][411]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/QMT58SAJYIQU5KR7HM6554_Auto586A68C364A1A3D2D914986A8173FC74F.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/09/QMT58SAJYIQU5KR7HM6554_Auto5.uasset'
+[2024.05.02-19.33.34:501][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/EO5AN69ZQK4E704W390AHN_Auto5
+[2024.05.02-19.33.34:501][411]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/EO5AN69ZQK4E704W390AHN_Auto5B443186D4906F592FA204AB737B8D8F8.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/EO5AN69ZQK4E704W390AHN_Auto5.uasset'
+[2024.05.02-19.33.34:502][411]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2024.05.02-19.33.34:502][411]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.05.02-19.40.22:033][390]Cmd: DUPLICATE
+[2024.05.02-19.40.22:033][390]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.40.39:378][351]Cmd: DUPLICATE
+[2024.05.02-19.40.39:378][351]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.41.13:409][ 20]Cmd: DUPLICATE
+[2024.05.02-19.41.13:409][ 20]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.41.17:297][444]Cmd: DELETE
+[2024.05.02-19.41.17:297][444]Cmd: ACTOR DELETE
+[2024.05.02-19.41.17:300][444]LogEditorActor: Deleted Actor: Teleport_C
+[2024.05.02-19.41.17:315][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.02-19.41.17:317][444]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.05.02-19.41.19:780][727]Cmd: DUPLICATE
+[2024.05.02-19.41.19:780][727]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.42.18:507][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-19.42.18:607][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.02-19.42.18:615][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.05.02-19.42.18:620][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.02-19.42.18:625][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV
+[2024.05.02-19.42.18:626][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/VBW0XUN7NVQ6KU3S94ZYTV378388C54428D6F36613EDAF30427E11.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Y9/VBW0XUN7NVQ6KU3S94ZYTV.uasset'
+[2024.05.02-19.42.18:630][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X3/N6BI9ADECJO8W77D4CZ0PR
+[2024.05.02-19.42.18:630][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/N6BI9ADECJO8W77D4CZ0PR903CC9B649AC6C85867B4C9CECF677E4.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/X3/N6BI9ADECJO8W77D4CZ0PR.uasset'
+[2024.05.02-19.42.18:633][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WG/1Y6BVRN73D0VOX4KI9YMCP
+[2024.05.02-19.42.18:633][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/1Y6BVRN73D0VOX4KI9YMCPDB7B41E84FE9E31F70AF4C90FE306180.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WG/1Y6BVRN73D0VOX4KI9YMCP.uasset'
+[2024.05.02-19.42.18:636][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/INTJA7Q4695IYXYSEUDKB9
+[2024.05.02-19.42.18:636][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/INTJA7Q4695IYXYSEUDKB95E8557A744AA198FBC6DF49DCFC21DC9.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2D/INTJA7Q4695IYXYSEUDKB9.uasset'
+[2024.05.02-19.42.18:640][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ED/ZPR81FJCYDMEO6QAJNGM3D
+[2024.05.02-19.42.18:640][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ZPR81FJCYDMEO6QAJNGM3D0A07B3B0400683CACC845BA1C66C9641.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ED/ZPR81FJCYDMEO6QAJNGM3D.uasset'
+[2024.05.02-19.42.18:642][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/09/QMT58SAJYIQU5KR7HM6554
+[2024.05.02-19.42.18:642][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/QMT58SAJYIQU5KR7HM6554D1F94EB2429FCAF4214E4D8EFDCE57ED.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/09/QMT58SAJYIQU5KR7HM6554.uasset'
+[2024.05.02-19.42.18:644][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/EO5AN69ZQK4E704W390AHN
+[2024.05.02-19.42.18:644][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/EO5AN69ZQK4E704W390AHN9A6F930C41795FD11009DF9F7F4750F7.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FV/EO5AN69ZQK4E704W390AHN.uasset'
+[2024.05.02-19.42.18:648][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/U7/XVQBLKGU1K0PA6KT5LNE64
+[2024.05.02-19.42.18:648][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/XVQBLKGU1K0PA6KT5LNE647A54ACA14BBFECC64F56C2AA2CF5EE26.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/U7/XVQBLKGU1K0PA6KT5LNE64.uasset'
+[2024.05.02-19.42.18:652][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1W/TVL5IDUJSW219K0FE1Q0RY
+[2024.05.02-19.42.18:652][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/TVL5IDUJSW219K0FE1Q0RYDDBA7FAE4234E20228B684AE1B7121FB.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/1W/TVL5IDUJSW219K0FE1Q0RY.uasset'
+[2024.05.02-19.42.18:655][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TH/M85LB9FY00IX7EU26CFYY1
+[2024.05.02-19.42.18:655][810]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/M85LB9FY00IX7EU26CFYY1C254B294479D796CFE2B63B65678BCAB.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TH/M85LB9FY00IX7EU26CFYY1.uasset'
+[2024.05.02-19.42.18:684][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 955 ms)
+[2024.05.02-19.42.18:685][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C5F101_1206974351
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1726446360
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1772889361
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C5F101_1784759362
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C6F101_1074876539
+[2024.05.02-19.42.18:685][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1167981540
+[2024.05.02-19.42.18:686][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1230944541
+[2024.05.02-19.42.18:686][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1775144542
+[2024.05.02-19.42.18:686][810]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C6F101_1792488543
+[2024.05.02-19.42.18:686][810]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1832890545
+[2024.05.02-19.42.58:475][484]Cmd: DUPLICATE
+[2024.05.02-19.42.58:476][484]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.43.25:790][148]Cmd: DUPLICATE
+[2024.05.02-19.43.25:790][148]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.43.52:371][843]Cmd: DUPLICATE
+[2024.05.02-19.43.52:371][843]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.44.40:795][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-19.44.40:909][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.02-19.44.40:917][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-19.44.40:923][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.02-19.44.40:928][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HL/J1DAB2LEO93LI2U2NW3EUM
+[2024.05.02-19.44.40:929][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/J1DAB2LEO93LI2U2NW3EUM7FB5B3A14F4B4082C3A225AB9BDA08B7.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/HL/J1DAB2LEO93LI2U2NW3EUM.uasset'
+[2024.05.02-19.44.40:933][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5H/0F6KTW9XDR5GOV1GHSQIY3
+[2024.05.02-19.44.40:934][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/0F6KTW9XDR5GOV1GHSQIY3A23E2CFC44B3FE0A136BA48948443CEB.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5H/0F6KTW9XDR5GOV1GHSQIY3.uasset'
+[2024.05.02-19.44.40:937][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HR/OOQ4B83JADFGKCCQW0F2IJ
+[2024.05.02-19.44.40:938][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/OOQ4B83JADFGKCCQW0F2IJ81ABE08547C1BC598F0B2D9526C5E374.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HR/OOQ4B83JADFGKCCQW0F2IJ.uasset'
+[2024.05.02-19.44.40:941][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6I/DD8EGOADJZ3KIWZY37L9SO
+[2024.05.02-19.44.40:941][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/DD8EGOADJZ3KIWZY37L9SOF97A5BB646E1DE12061D3489A0539E10.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6I/DD8EGOADJZ3KIWZY37L9SO.uasset'
+[2024.05.02-19.44.40:944][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2K/LJX1IUHGFT4G8ODI2FR62G
+[2024.05.02-19.44.40:944][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/LJX1IUHGFT4G8ODI2FR62G49013226472A6C8A80BF8AA0D0B3A92B.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2K/LJX1IUHGFT4G8ODI2FR62G.uasset'
+[2024.05.02-19.44.40:947][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32
+[2024.05.02-19.44.40:947][874]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/9XVT7C8QJUND79A9VT9X3230B8F5F945742CA22D1785A3720636FF.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32.uasset'
+[2024.05.02-19.44.40:968][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 1.12 sec)
+[2024.05.02-19.44.40:972][874]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Room/Room.Room_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Room_C_UAID_2C6DC1912C82C3F101_1487862977
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C3F101_1566071979
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C3F101_1630262981
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1931585546
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1958901547
+[2024.05.02-19.44.40:972][874]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1985481548
+[2024.05.02-19.44.55:807][451]Cmd: DUPLICATE
+[2024.05.02-19.44.55:807][451]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.45.13:554][333]Cmd: DUPLICATE
+[2024.05.02-19.45.13:554][333]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.46.01:252][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.02-19.46.01:256][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32_Auto6
+[2024.05.02-19.46.01:256][819]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/9XVT7C8QJUND79A9VT9X32_Auto67D5E0EF44031E38D00D788A8E1543EC6.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32_Auto6.uasset'
+[2024.05.02-19.46.01:258][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VX/IC11PUD369LEBIY9WLU577_Auto6
+[2024.05.02-19.46.01:259][819]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/IC11PUD369LEBIY9WLU577_Auto6CDD5A0904C2D5B61A1056BA58649E5E0.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VX/IC11PUD369LEBIY9WLU577_Auto6.uasset'
+[2024.05.02-19.46.01:260][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GD/OEKK1TXAF6DKSS6AL4EAPT_Auto6
+[2024.05.02-19.46.01:260][819]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/OEKK1TXAF6DKSS6AL4EAPT_Auto694907B074F4B7EE399A6EB8BE4FA8021.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GD/OEKK1TXAF6DKSS6AL4EAPT_Auto6.uasset'
+[2024.05.02-19.46.01:262][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.05.02-19.46.01:262][819]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.05.02-19.46.07:859][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-19.46.07:931][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.02-19.46.07:938][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.02-19.46.07:942][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.05.02-19.46.07:945][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32
+[2024.05.02-19.46.07:945][ 80]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/9XVT7C8QJUND79A9VT9X32FB2F8E864C3A1D587C03AFB95198249E.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SI/9XVT7C8QJUND79A9VT9X32.uasset'
+[2024.05.02-19.46.07:948][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VX/IC11PUD369LEBIY9WLU577
+[2024.05.02-19.46.07:948][ 80]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/IC11PUD369LEBIY9WLU577F01C0D214CDA7FBE2A7AB19B9A2E7CED.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VX/IC11PUD369LEBIY9WLU577.uasset'
+[2024.05.02-19.46.07:949][ 80]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GD/OEKK1TXAF6DKSS6AL4EAPT
+[2024.05.02-19.46.07:949][ 80]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/OEKK1TXAF6DKSS6AL4EAPT4056C87244D1D5CFDDDF5AA5E24D9F88.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GD/OEKK1TXAF6DKSS6AL4EAPT.uasset'
+[2024.05.02-19.46.07:972][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.24 sec)
+[2024.05.02-19.46.07:973][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-19.46.07:973][ 80]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_1985481548
+[2024.05.02-19.46.07:973][ 80]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_2048917549
+[2024.05.02-19.46.07:973][ 80]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C6F101_2066664550
+[2024.05.02-19.47.08:828][285]Cmd: DUPLICATE
+[2024.05.02-19.47.08:828][285]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.47.20:881][331]Cmd: DUPLICATE
+[2024.05.02-19.47.20:881][331]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.47.38:072][995]Cmd: DUPLICATE
+[2024.05.02-19.47.38:072][995]Cmd: ACTOR DUPLICATE
+[2024.05.02-19.48.03:111][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-19.48.03:229][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.02-19.48.03:236][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.02-19.48.03:243][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.02-19.48.03:246][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GK/SCZK7YI2BV0B6YYP4TPZVY
+[2024.05.02-19.48.03:247][647]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/SCZK7YI2BV0B6YYP4TPZVY00E2F3544747AEE8FDC122B58BF585BD.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/GK/SCZK7YI2BV0B6YYP4TPZVY.uasset'
+[2024.05.02-19.48.03:252][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QM/H0LX76PWV6KUBDL3I370Y0
+[2024.05.02-19.48.03:252][647]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/H0LX76PWV6KUBDL3I370Y02F1710DE489475A392A74A95B397A12C.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QM/H0LX76PWV6KUBDL3I370Y0.uasset'
+[2024.05.02-19.48.03:254][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YM/ZMJLN7VSYTV5O5DZQ1RPJR
+[2024.05.02-19.48.03:254][647]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/ZMJLN7VSYTV5O5DZQ1RPJRF8C1A1B54AEDB4D7C0E893A804834884.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YM/ZMJLN7VSYTV5O5DZQ1RPJR.uasset'
+[2024.05.02-19.48.03:256][647]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BH/40P12RUW0Q8KKACMXW1VJ1
+[2024.05.02-19.48.03:256][647]LogSavePackage: Moving '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Saved/40P12RUW0Q8KKACMXW1VJ19174A4EF4011813936CF97A17A867310.tmp' to '../../../../../../Users/go/Documents/GitHub/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BH/40P12RUW0Q8KKACMXW1VJ1.uasset'
+[2024.05.02-19.48.03:273][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 1.40 sec)
+[2024.05.02-19.48.03:276][647]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-19.48.03:276][647]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82BEE801_1470921627
+[2024.05.02-19.48.03:276][647]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C7F101_1108196727
+[2024.05.02-19.48.03:276][647]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C7F101_1120248728
+[2024.05.02-19.48.03:276][647]LogContentValidation: Display: Validating /Game/Teleport/Teleport.Teleport_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Teleport_C_UAID_2C6DC1912C82C7F101_1137440729
