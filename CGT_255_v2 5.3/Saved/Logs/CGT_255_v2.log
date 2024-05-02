@@ -3856,3 +3856,440 @@ UnknownFunction []
 [2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.BP_Base_Pedal
 [2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Bullet_Breaker.BP_Pedal_Bullet_Breaker
 [2024.05.02-20.47.14:825][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Chaos_Chorus.BP_Pedal_Chaos_Chorus
+[2024.05.02-20.53.12:070][147]LogContentBrowser: Deferred new asset file creation: BP_Base_Pedal_Child
+[2024.05.02-20.53.12:106][147]LogContentBrowser: Creating deferred item: BP_Base_Pedal_Child
+[2024.05.02-20.53.12:123][148]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Base_Pedal_Child).
+[2024.05.02-20.53.17:513][688]LogContentBrowser: Attempting asset rename: BP_Base_Pedal_Child -> BP_WinPedal
+[2024.05.02-20.53.17:518][688]LogContentBrowser: End creating deferred item BP_Base_Pedal_Child
+[2024.05.02-20.53.19:183][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal
+[2024.05.02-20.53.19:183][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.53.19:183][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.53.19:461][849]LogViewport: Scene viewport resized to 1007x652, mode Windowed.
+[2024.05.02-20.53.21:298][957]LogViewport: Scene viewport resized to 1004x678, mode Windowed.
+[2024.05.02-20.53.21:458][959]LogViewport: Scene viewport resized to 464x229, mode Windowed.
+[2024.05.02-20.53.21:651][974]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.53.22:499][ 50]LogViewport: Scene viewport resized to 1520x1085, mode Windowed.
+[2024.05.02-20.53.22:662][ 52]LogViewport: Scene viewport resized to 464x223, mode Windowed.
+[2024.05.02-20.53.22:721][ 55]LogViewport: Scene viewport resized to 1522x1059, mode Windowed.
+[2024.05.02-20.53.25:284][327]LogSlate: Window 'Death' being destroyed
+[2024.05.02-20.53.25:290][327]LogSlate: Window 'Death' being destroyed
+[2024.05.02-20.53.25:307][327]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.53.25:307][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.53.25:327][327]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.53.25:327][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.54.18:454][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C
+[2024.05.02-20.54.18:454][ 84]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C
+[2024.05.02-20.54.18:457][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal as actor: BP_WinPedal_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_0
+[2024.05.02-20.54.18:458][ 84]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal as actor: BP_WinPedal_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_0
+[2024.05.02-20.54.18:463][ 84]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.02-20.54.19:208][134]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C
+[2024.05.02-20.54.19:208][134]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C
+[2024.05.02-20.54.19:212][134]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal as actor: BP_WinPedal_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_UAID_309C23BB3FDCCAF101_1917351207
+[2024.05.02-20.54.19:213][134]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal as actor: BP_WinPedal_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_UAID_309C23BB3FDCCAF101_1917351207
+[2024.05.02-20.54.22:478][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.54.22:498][456]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.54.22:498][456]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.54.22:499][456]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.54.22:502][456]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 36 ms)
+[2024.05.02-20.54.22:504][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-20.54.22:504][456]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:54:22 PM)
+[2024.05.02-20.54.22:504][456]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.54.22:529][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025434s)
+[2024.05.02-20.54.22:529][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.025464s)
+[2024.05.02-20.54.22:555][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.02-20.54.22:558][456]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.54.22:559][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.54.22:559][456]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.54.22:560][456]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.54.22:560][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.54.22:560][456]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.54.22:560][456]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.54.22:566][456]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.54.22:566][456]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 572 ms)
+[2024.05.02-20.54.22:566][456]LogPlayLevel: PIE: World Init took: (0.007395s)
+[2024.05.02-20.54.22:566][456]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.54.22:566][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.54.22:566][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.54.22:567][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.54.22:567][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.54.22:567][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.54.22:569][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.54.22:593][456]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.54.22:594][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.54.22:594][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.54.22:594][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.54.22:595][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.02-20.54.22:595][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.02-20.54.22:596][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.02-20.54.22:596][456]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.02-20.54.22:596][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.02-20.54.22:596][456]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.54.22:596][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.02-20.54.22:601][456]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.54.22:613][456]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.54.22
+[2024.05.02-20.54.22:613][456]LogWorld: Bringing up level for play took: 0.011698
+[2024.05.02-20.54.22:615][456]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.05.02-20.54.22:620][456]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.54.22:620][456]PIE: Server logged in
+[2024.05.02-20.54.22:621][456]PIE: Play in editor total start time 0.123 seconds.
+[2024.05.02-20.54.23:099][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_2". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.23:099][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.23:099][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:246][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:246][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:246][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:277][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:277][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:277][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:448][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:449][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:449][ 54]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:580][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:580][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:580][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:610][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:610][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:611][ 70]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:983][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:983][107]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_4 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_4 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.28:983][107]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:034][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:034][112]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_4 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_4 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:034][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:094][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:094][118]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_4 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_4 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.29:094][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:177][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:177][230]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_7 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:177][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:234][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:235][236]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_7 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:235][236]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:305][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:305][243]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_7 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:305][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:453][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:453][258]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_7 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_7 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.30:453][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.54.31:925][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.54.31:925][411]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.54.31:925][411]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.54.31:927][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.54.31:927][411]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.54.31:933][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.54.31:939][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.54.31:957][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-20.54.31:959][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.02-20.54.31:959][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-20.54.31:961][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.02-20.54.31:965][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.54.31:972][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.02-20.54.32:169][412]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.05.02-20.54.33:198][479]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.54.33:206][479]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.55.12:405][351]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/ThirdPerson/Blueprints/Pedal_Type.Pedal_Type
+[2024.05.02-20.55.16:704][841]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2024.05.02-20.56.18:212][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.02-20.56.18:222][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2_Auto2
+[2024.05.02-20.56.18:223][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/VESNR07RY4XQ6471GYNSO2_Auto26137339443DFD39B288F718257F627F2.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2_Auto2.uasset'
+[2024.05.02-20.56.18:230][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25_Auto2
+[2024.05.02-20.56.18:230][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/E8YTND6P86JCR6Y0UGRY25_Auto2495FCF8E49AA548C82ED72A10F7F0F76.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25_Auto2.uasset'
+[2024.05.02-20.56.18:232][473]LogWorldPartition: Can't find class descriptor '/Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C' for saving '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_UAID_309C23BB3FDCCAF101_1917351207'
+[2024.05.02-20.56.18:237][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Y2/O0C76UTZPDH3FUZCLCBVI3_Auto2
+[2024.05.02-20.56.18:237][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/O0C76UTZPDH3FUZCLCBVI3_Auto29870BAE848293C3B59CE758727EC3346.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Y2/O0C76UTZPDH3FUZCLCBVI3_Auto2.uasset'
+[2024.05.02-20.56.18:238][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.050
+[2024.05.02-20.56.18:238][473]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.05.02-20.56.18:239][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedal_Type] ([1] browsable assets)...
+[2024.05.02-20.56.18:239][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedal_Type]
+[2024.05.02-20.56.18:243][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedal_Type_Auto2
+[2024.05.02-20.56.18:243][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Pedal_Type_Auto228D9783044F14DA3E19930A5BF632C32.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedal_Type_Auto2.uasset'
+[2024.05.02-20.56.18:248][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Animations/MC_BP] ([2] browsable assets)...
+[2024.05.02-20.56.18:248][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Animations/MC_BP]
+[2024.05.02-20.56.18:300][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Animations/MC_BP_Auto2
+[2024.05.02-20.56.18:306][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/MC_BP_Auto2C4C5EF5841B2428EB6FD868C70CDAD90.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Animations/MC_BP_Auto2.uasset'
+[2024.05.02-20.56.18:311][473]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile] ([2] browsable assets)...
+[2024.05.02-20.56.18:412][473]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile.BP_Base_Projectile]
+[2024.05.02-20.56.18:414][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile]
+[2024.05.02-20.56.18:431][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile_Auto2
+[2024.05.02-20.56.18:431][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_Projectile_Auto28FEFCBA04241B0A0F2DE5883A4B8ADE5.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile_Auto2.uasset'
+[2024.05.02-20.56.18:433][473]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.05.02-20.56.18:433][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.56.18:478][473]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.05.02-20.56.18:494][473]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.05.02-20.56.18:494][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.05.02-20.56.18:543][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.05.02-20.56.18:550][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_ThirdPersonCharacter_Auto256922C064F83FF4AC6F7618218E1A383.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.05.02-20.56.18:552][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal] ([2] browsable assets)...
+[2024.05.02-20.56.18:552][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal]
+[2024.05.02-20.56.18:570][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal_Auto2
+[2024.05.02-20.56.18:576][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_Pedal_Auto2F87D86874A3FDC7A301A4EB810F09EED.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal_Auto2.uasset'
+[2024.05.02-20.56.18:578][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal] ([2] browsable assets)...
+[2024.05.02-20.56.18:578][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal]
+[2024.05.02-20.56.18:586][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal_Auto2
+[2024.05.02-20.56.18:586][473]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_WinPedal_Auto2D7259C2741D926F366FAF3A47A2E668E.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Autosaves/Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal_Auto2.uasset'
+[2024.05.02-20.56.18:591][473]LogFileHelpers: Auto-saving content packages took 0.353
+[2024.05.02-20.57.12:613][319]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.12:613][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.14:418][510]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.02-20.57.14:418][510]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.14:418][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.15:783][653]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.02-20.57.15:783][653]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.15:783][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.17:435][834]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.17:435][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.17:454][834]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.17:454][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.18:168][908]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.18:168][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.18:187][908]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.18:187][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.19:181][  7]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.19:182][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.57.19:202][  7]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.57.19:202][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.58.34:702][434]BlueprintLog: New page: Compile MC_BP
+[2024.05.02-20.58.34:792][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.02-20.58.36:410][549]BlueprintLog: New page: Compile BP_Base_Pedal
+[2024.05.02-20.58.36:490][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-20.58.41:488][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-20.58.41:506][ 53]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-20.58.41:506][ 53]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-20.58.41:507][ 53]MapCheck: Actor needs resave /Game/ThirdPerson/Maps/ThirdPersonMap.WorldDataLayers 
+[2024.05.02-20.58.41:510][ 53]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 4 ms (total: 40 ms)
+[2024.05.02-20.58.41:510][ 53]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.02-20.58.41:533][ 53]LogPlayLevel: [PlayLevel] Compiling BP_Base_Projectile before play...
+[2024.05.02-20.58.41:539][ 53]LogPlayLevel: [PlayLevel]   Compiling BP_Bullet_Breaker_Projectile as a dependent...
+[2024.05.02-20.58.41:543][ 53]LogPlayLevel: [PlayLevel]   Compiling BP_Chaos_Chorus_Projectile as a dependent...
+[2024.05.02-20.58.41:549][ 53]LogPlayLevel: [PlayLevel]   Compiling BP_Rapid_Riffinator_Projectile as a dependent...
+[2024.05.02-20.58.41:650][ 53]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.05.02-20.58.41:692][ 53]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.05.02-20.58.41:721][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.02-20.58.41:736][ 53]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (6 blueprints)
+[2024.05.02-20.58.41:736][ 53]PIE: New page: PIE session: ThirdPersonMap (May 2, 2024, 12:58:41 PM)
+[2024.05.02-20.58.41:782][ 53]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.58.41:812][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030723s)
+[2024.05.02-20.58.41:812][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.030798s)
+[2024.05.02-20.58.41:832][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.02-20.58.41:833][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-20.58.41:833][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-20.58.41:834][ 53]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-20.58.41:834][ 53]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-20.58.41:834][ 53]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-20.58.41:834][ 53]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-20.58.41:834][ 53]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-20.58.41:840][ 53]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-20.58.41:840][ 53]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 578 ms)
+[2024.05.02-20.58.41:840][ 53]LogPlayLevel: PIE: World Init took: (0.007277s)
+[2024.05.02-20.58.41:840][ 53]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-20.58.41:840][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-20.58.41:840][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-20.58.41:841][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-20.58.41:841][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-20.58.41:841][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-20.58.41:843][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-20.58.41:867][ 53]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (Realtek(R) Audio)
+[2024.05.02-20.58.41:868][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-20.58.41:868][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-20.58.41:868][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-20.58.41:868][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.02-20.58.41:869][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.02-20.58.41:870][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.02-20.58.41:870][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.02-20.58.41:871][ 53]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.02-20.58.41:871][ 53]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2024.05.02-20.58.41:871][ 53]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.02-20.58.41:874][ 53]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-20.58.41:886][ 53]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-16.58.41
+[2024.05.02-20.58.41:886][ 53]LogWorld: Bringing up level for play took: 0.011585
+[2024.05.02-20.58.41:888][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.02-20.58.41:893][ 53]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.05.02-20.58.41:893][ 53]PIE: Server logged in
+[2024.05.02-20.58.41:894][ 53]PIE: Play in editor total start time 0.389 seconds.
+[2024.05.02-20.58.42:514][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.42:514][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.42:514][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:072][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:072][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:072][280]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:307][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:307][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:307][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:512][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_3". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:513][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:513][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:855][364]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:855][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.44:855][364]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:052][385]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:052][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:052][385]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:176][398]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:176][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:176][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:497][432]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:497][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:497][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:642][447]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:642][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:642][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:782][461]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:782][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:782][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:944][477]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:944][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.45:944][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:115][494]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:115][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:115][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:403][523]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:403][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor_1". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:403][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:503][533]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:503][533]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:504][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:605][543]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:605][543]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.46:605][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:331][616]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:331][616]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:331][616]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_14 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Base_Projectile_C_14 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:504][633]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:504][633]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:504][633]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_14 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Base_Projectile_C_14 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:777][660]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:777][660]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:777][660]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:916][674]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:917][674]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.47:917][674]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:540][736]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:540][736]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:541][736]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:842][766]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:842][766]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.48:842][766]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:053][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:053][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_12 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Base_Projectile_C_12 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:053][787]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:103][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:103][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:103][792]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:184][800]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_10 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Base_Projectile_C_10 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:184][800]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:184][800]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:539][835]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:539][835]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:539][835]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:589][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:589][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.49:589][840]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Base_Projectile_C_16 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Base_Projectile_C_16 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:215][903]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_11 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_11 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:215][903]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:216][903]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:265][908]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_11 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_11 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:265][908]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:265][908]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:627][944]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_11 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_11 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:627][944]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:627][944]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:667][948]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_11 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_11 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:667][948]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:667][948]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:729][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:729][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:729][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_21 via property K2Node_ComponentBoundEvent_OtherActor, but BP_Rapid_Riffinator_Projectile_C_21 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:730][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:730][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:730][954]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:791][960]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:791][960]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:792][960]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:852][966]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:852][966]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.50:852][966]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:795][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:796][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:796][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:875][ 67]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:875][ 67]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:875][ 67]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:956][ 75]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:956][ 75]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:956][ 75]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:976][ 77]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:976][ 77]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.51:976][ 77]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:025][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:025][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:025][ 82]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:144][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:144][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:144][ 94]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:184][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_17 via property K2Node_ComponentBoundEvent_OtherActor_3, but BP_Rapid_Riffinator_Projectile_C_17 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:184][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_5 via property K2Node_ComponentBoundEvent_OtherActor_2, but BP_Rapid_Riffinator_Projectile_C_5 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:184][ 98]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Rapid_Riffinator_Projectile_C_3 via property K2Node_ComponentBoundEvent_OtherActor_1, but BP_Rapid_Riffinator_Projectile_C_3 is not valid (pending kill or garbage)". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Room Blueprint:  Room
+[2024.05.02-20.58.52:323][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.58.52:323][109]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-20.58.52:323][109]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-20.58.52:325][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.58.52:325][109]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-20.58.52:329][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-20.58.52:335][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-20.58.52:353][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-20.58.52:356][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.02-20.58.52:356][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-20.58.52:358][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.02-20.58.52:369][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.02-20.58.52:581][110]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.02-20.58.54:705][268]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-20.58.54:722][268]LogSlate: Window 'Message Log' being destroyed
+[2024.05.02-21.01.51:186][595]LogTexture: Display: Building textures: /Game/Room/Props_MedLarge/industrial-robot-arm/textures/back_Base_Color.back_Base_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 327.645823 MB), EncodeSpeed: Fast
+[2024.05.02-21.01.57:324][200]LogTexture: Display: Building textures: /Game/Room/Props_MedLarge/industrial-robot-arm/textures/bott_albedo.bott_albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 327.645823 MB), EncodeSpeed: Fast
+[2024.05.02-21.02.03:266][831]LogTexture: Display: Building textures: /Game/Room/Textures/Urban_Jungle/bricks/bricks_24.bricks_24 (TFO_AutoDXT, 1000x692 x1x1x1) (Required Memory Estimate: 114.354879 MB), EncodeSpeed: Fast
+[2024.05.02-21.02.09:596][515]LogTexture: Display: Building textures: /Game/Room/Textures/Urban_Jungle/Index/Building_Faces_01.Building_Faces_01 (TFO_AutoDXT, 800x600 x1x1x1) (Required Memory Estimate: 77.064453 MB), EncodeSpeed: Fast
+[2024.05.02-21.02.18:609][404]LogTexture: Display: Building textures: /Game/Room/Textures/Urban_Jungle/doors/door_01.door_01 (BGRA8, 325x755 x1x1x1) (Required Memory Estimate: 7.238728 MB), EncodeSpeed: Fast
+[2024.05.02-21.03.41:404][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.02-21.03.41:422][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-21.03.41:487][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2
+[2024.05.02-21.03.41:495][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/VESNR07RY4XQ6471GYNSO28295B9F64FCCBB474DB187BB3F34BC51.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0A/VESNR07RY4XQ6471GYNSO2.uasset'
+[2024.05.02-21.03.41:504][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25
+[2024.05.02-21.03.41:512][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/E8YTND6P86JCR6Y0UGRY25A957D1184110C1AC25D91CAD86825890.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1D/E8YTND6P86JCR6Y0UGRY25.uasset'
+[2024.05.02-21.03.41:521][ 62]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Y2/O0C76UTZPDH3FUZCLCBVI3
+[2024.05.02-21.03.41:521][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/O0C76UTZPDH3FUZCLCBVI32BB8ED014B4013AE089640941926E66E.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/Y2/O0C76UTZPDH3FUZCLCBVI3.uasset'
+[2024.05.02-21.03.41:523][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Pedal_Type" FILE="../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedal_Type.uasset" SILENT=true
+[2024.05.02-21.03.41:528][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedal_Type
+[2024.05.02-21.03.41:532][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/Pedal_Type5BDC5851414604747F11ADABEB62AC69.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedal_Type.uasset'
+[2024.05.02-21.03.41:594][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Animations/MC_BP
+[2024.05.02-21.03.41:599][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/MC_BP4049EFBF460094CCCE41DBA01F9C7E52.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Animations/MC_BP.uasset'
+[2024.05.02-21.03.41:618][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile
+[2024.05.02-21.03.41:624][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_ProjectileF95998D945D202DFC7D7A398A30E8C1A.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile.uasset'
+[2024.05.02-21.03.41:674][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.05.02-21.03.41:679][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_ThirdPersonCharacter1B46DE294A56B97EEDCF47B4635F364B.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.05.02-21.03.41:701][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal
+[2024.05.02-21.03.41:706][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_Base_PedalEC52C17B465E7AADC101CDA6098D7DF4.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.uasset'
+[2024.05.02-21.03.41:716][ 62]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal
+[2024.05.02-21.03.41:716][ 62]LogSavePackage: Moving '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Saved/BP_WinPedal8B5E196A4550B1CC7007798A2DF05196.tmp' to '../../../../../../Users/ctweedy/OneDrive/255_Proj/CGT_255_v2 5.3/Content/ThirdPerson/Blueprints/Pedals/BP_WinPedal.uasset'
+[2024.05.02-21.03.41:729][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 1.35 sec)
+[2024.05.02-21.03.41:735][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_B44506B9184CC5F101_2140347327
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_Pedal_Rapid_Riffinator.BP_Pedal_Rapid_Riffinator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Pedal_Rapid_Riffinator_C_UAID_309C23BB3FDCF0E801_1957469392
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_WinPedal_C_UAID_309C23BB3FDCCAF101_1917351207
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/ThirdPerson/Blueprints/Pedal_Type.Pedal_Type
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Animations/MC_BP.MC_BP
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Bullets/BP_Base_Projectile.BP_Base_Projectile
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_Base_Pedal.BP_Base_Pedal
+[2024.05.02-21.03.41:735][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Pedals/BP_WinPedal.BP_WinPedal
